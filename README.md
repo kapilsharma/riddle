@@ -27,3 +27,7 @@ How would you identify the heavier ball if you could use a pair of balance scale
     - Store every move of every game in a MySQL database
     - Simple HTML + jQuery game with Auto-Play and Auto-Replay features
     - Unit tests
+    
+## Solution
+
+Please refer [docs/solution.md]() for my technical solution.
