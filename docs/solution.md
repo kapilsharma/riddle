@@ -19,4 +19,4 @@ Yes, we can find one light ball among 9 identical balls using a balance just twi
     
 This process can be visualized in following flow chart.
 
-![Flow diagram](/9-balls-scale.png?raw=true "Flow diagram")
+![Flow diagram](/docs/9-balls-scale.png?raw=true "Flow diagram")

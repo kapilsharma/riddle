@@ -30,4 +30,4 @@ How would you identify the heavier ball if you could use a pair of balance scale
     
 ## Solution
 
-Please refer [docs/solution.md]() for my technical solution.
+Please refer [docs/solution.md](docs/solution.md) for my technical solution.
